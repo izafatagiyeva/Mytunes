@@ -1,4 +1,4 @@
-<h1>MYTUNES PROJE</h1>
+<h1>MYTUNES PROJECT</h1>
 
     I am happy to share my project
 
@@ -7,7 +7,7 @@
 
     HTML CSS ve BOOTSTRAP 
 
-
+![](https://github.com/izafatagiyeva/Mytunes/blob/main/mytunes-gif.gif)
 
 
 
